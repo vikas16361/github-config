@@ -1,0 +1,8 @@
+loans:
+  message: "dev by vikas"
+  contactDetails:
+    name : "vikas - dev"
+    email: "vikas@gmail.com"
+  contact:
+    - +91 9874563210
+    - +91 7531495123

@@ -1,0 +1,8 @@
+accounts:
+  message: "Testing by qa"
+  contactDetails:
+    name : "vikas - Tester"
+    email: "vikas@gmail.com"
+  contact:
+    - +91 9874563210
+    - +91 7531495123
