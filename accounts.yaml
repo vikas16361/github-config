@@ -2,7 +2,7 @@ accounts:
   message: "dev by vikas"
   contactDetails:
     name : "vikas - dev"
-    email: "vikas@gmail.com"
+    email: "{cipher}e54db497639742baf26ded2dc3c04dd045a45e8a3bbe11ef4d9d322cd2c5771d"
   contact:
     - +91 9874563210
     - +91 7531495123
